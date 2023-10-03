@@ -4,7 +4,7 @@ A nice small project. I started implementing JS into my work. A little practice 
 
 # Demo: 
 
-https://skala10.github.io/Vertical_timeline/
+https://skala10.github.io/vertical-timeline-js/
 
 ## Features
 
