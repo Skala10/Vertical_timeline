@@ -8,13 +8,12 @@ https://skala10.github.io/Vertical_timeline/
 
 ## Features
 
-- Feature 1: Description of the main functionality or technologies used.
-- Feature 2: Other interesting aspects of the project.
+- Feature 1: Work with CSS and JS
 
 ## Technologies
 
 List of technologies used in the project:
 
-- Technology 1
-- Technology 2
-- ...
+- HTML
+- CSS
+- JS
